@@ -1,7 +1,7 @@
 # CNN-Based Image Recognition on NaturalImageNet
 
 ## Project Overview
-This project focuses on developing and optimizing a deep learning model using Convolutional Neural Networks (CNNs) for image classification. Targeting the NaturalImageNet dataset, a subset of ImageNet containing 20 classes of animals, this project aims to push the boundaries of image recognition in challenging and diverse real-world scenarios.
+This project focuses on developing and optimizing a deep learning model using Convolutional Neural Networks (CNNs) for image classification. Targeting the NaturalImageNet dataset, a subset of ImageNet containing 20 classes of animals, this project aims to push the boundaries of image recognition in challenging and diverse real-world scenarios. Detailed explanations and written answers regarding the methodology and results are available in the markdown cells of the accompanying Jupyter Notebook (ipynb)
 
 ## Requirements
 - Python 3.10
